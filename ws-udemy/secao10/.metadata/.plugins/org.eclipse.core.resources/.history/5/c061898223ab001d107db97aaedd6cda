@@ -1,0 +1,19 @@
+package application;
+
+public class Boxing {
+
+	public static void main(String[] args) {
+		String x = "Hola";
+		
+		Object obj = x;
+		
+		System.out.println(obj);
+		
+		int y = (int) obj;
+		
+		obj = y;	
+		
+		System.out.println(obj);
+	}
+
+}
