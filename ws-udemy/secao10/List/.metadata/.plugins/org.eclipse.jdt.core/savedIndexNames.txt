@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\temp\ws-udemy\seção 9\secao10\List\.metadata\.plugins\org.eclipse.jdt.core
-3711342577.index
-1865797976.index
-4269759981.index
